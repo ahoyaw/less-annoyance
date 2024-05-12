@@ -61,3 +61,5 @@ ikotv.com##.banner
 ikotv.com##.chat-inner > [href]
 
 ||qsbr.cf2.quoracdn.net/-4-ans_frontend-relay-common-LoggedOut-27-f9246f466bbee193.webpack
+
+ovagames.com##iframe
