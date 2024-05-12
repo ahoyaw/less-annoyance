@@ -1,12 +1,12 @@
-apkmirror.com#?#.ains-apkm_release_page_top.ains-has-label.ains-24.ains
+apkmirror.com##.ains-apkm_release_page_top.ains-has-label.ains-24.ains
 
-apkmirror.com#?#.f-nowrap.d-flex.p-relative.f-100
+apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
 
-apkmirror.com#?#.ains-apkm_release_page_below_description_above_downloads.ains-has-label.ains-26.ains
+apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-has-label.ains-26.ains
 
-apkmirror.com#?#.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
+apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
 
-apkmirror.com#?#.ains-apkm_release_page_middle.ains-has-label.ains-25.ains
+apkmirror.com##.ains-apkm_release_page_middle.ains-has-label.ains-25.ains
 
 klikindomaret.com#?#.desktop-xs.popupDownload > .container
 
@@ -53,9 +53,3 @@ ikotv.com##.banner
 ikotv.com##.chat-inner > [href]
 
 ||qsbr.cf2.quoracdn.net/-4-ans_frontend-relay-common-LoggedOut-27-f9246f466bbee193.webpack
-
-||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-a61c2f9d.js
-
-reddit.com##xpromo-nsfw-blocking-modal,slot+.prompt 
-
-reddit.com##[style*="blur"]:style(filter:none!important;)
