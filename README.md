@@ -5,7 +5,7 @@ Optimized Cromite specific ad filtering as some elements cannot be blocked by ot
 # Filter URL
 | Variant | Things that might be interesting |
 | ------ | ------|
-[less-annoyance](https://raw.githubusercontent.com/ahoyaw/less-annoyance/main/less-annoyance.txt | Eliminate some elements such as Instagram login questions, download commands on some sites, etc.
+[less-annoyance](https://raw.githubusercontent.com/ahoyaw/less-annoyance/main/less-annoyance.txt) | Eliminate some elements such as Instagram login questions, download commands on some sites, etc.
 
 ## Guide
 How to use:
