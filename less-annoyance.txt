@@ -30,3 +30,8 @@ speedtest.net#?#.mobile-eot-banner
 speedtest.net#?#.modal-in-place.modal.mobile-pretest-new
 speedtest.net#?#.modal-overlay-dark.modal-overlay
 ||qsbr.cf2.quoracdn.net/-4-ans_frontend-relay-common-LoggedOut-27-f9246f466bbee193.webpac
+apkmirror.com#?#.ains-apkm_billboard_top.ains-has-label.ains-45.ains
+apkmirror.com#?#div.appRow:nth-of-type(23)
+apkmirror.com#?#div.appRow:nth-of-type(7)
+apkmirror.com#?#div.appRow:nth-of-type(15)
+apkmirror.com#?#.ains-apkm_index_top.ains-has-label.ains-1.ains
