@@ -12,4 +12,4 @@ How to use:
 1. Copy link in **[Variant](https://github.com/ahoyaw/less-annoyance#filter-url)** section box.
 2. In the **Cromite** browser, go to **Adblock Plus settings**
 3. Go to **Custom ad filtering settings**.
-4. Paste copied **[Variant](https://github.com/ahoyaw/less-annoyance#filters-url)** link into **empty box**
+4. Paste copied **[Variant](https://github.com/ahoyaw/less-annoyance#filter-url)** link into **empty box**
