@@ -53,3 +53,9 @@ ikotv.com##.banner
 ikotv.com##.chat-inner > [href]
 
 ||qsbr.cf2.quoracdn.net/-4-ans_frontend-relay-common-LoggedOut-27-f9246f466bbee193.webpack
+
+||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-a61c2f9d.js
+
+reddit.com##xpromo-nsfw-blocking-modal,slot+.prompt 
+
+reddit.com##[style*="blur"]:style(filter:none!important;)
