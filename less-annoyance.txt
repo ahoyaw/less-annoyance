@@ -35,8 +35,10 @@ apkmirror.com#?#div.appRow:nth-of-type(23)
 apkmirror.com#?#div.appRow:nth-of-type(7)
 apkmirror.com#?#div.appRow:nth-of-type(15)
 apkmirror.com#?#.ains-apkm_index_top.ains-has-label.ains-1.ains
-cnnindonesia.com##.border-b.bg-white
-cnnindonesia.com###top_megabillboard
-pahe.ink##iframe
-lk21official.mom,lk21official.id##.notice
-lk21official.id##div#top-b.row
+cnnindonesia.com#?#.border-b.bg-white
+cnnindonesia.com#?#top_megabillboard
+pahe.ink#?#iframe
+lk21official.mom,lk21official.id#?#.notice
+lk21official.id#?#div#top-b.row
+m.facebook.com#?#login_top_banner
+m.facebook.com#?#.bottom.fixed-container.m
