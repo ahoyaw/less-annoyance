@@ -40,5 +40,3 @@ cnnindonesia.com#?#top_megabillboard
 pahe.ink#?#iframe
 lk21official.mom,lk21official.id#?#.notice
 lk21official.id#?#div#top-b.row
-m.facebook.com#?#login_top_banner
-m.facebook.com#?#screen-root > div.m.bg-s22 > div.m.fixed-container.bottom:nth-child(2)
