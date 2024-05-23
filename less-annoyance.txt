@@ -41,4 +41,3 @@ pahe.ink#?#iframe
 lk21official.mom,lk21official.id#?#.notice
 lk21official.id#?#div#top-b.row
 m.facebook.com#?#login_top_banner
-m.facebook.com#?#.bottom.fixed-container.m
